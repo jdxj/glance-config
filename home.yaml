@@ -40,15 +40,13 @@
             - glanceapp/glance
             - syncthing/syncthing
             - SagerNet/sing-box
-            - apernet/hysteria
-            # - gohugoio/hugo
             - v2fly/domain-list-community
             - gogf/gf
             - bin456789/reinstall
             - RMerl/asuswrt-merlin.ng
             - pixelspark/sushitrain
             - 2dust/v2rayn
-            # - gtsteffaniak/filebrowser
             - lin-snow/Ech0
             - foxcpp/maddy
             - halo-dev/halo
+            - k3s-io/k3s
