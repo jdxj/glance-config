@@ -1,0 +1,47 @@
+- name: RSS
+  columns:
+    - size: full
+      widgets:
+        - type: group
+          define: &shared-properties
+            type: reddit
+            style: vertical-cards
+            show-flairs: true
+            show-thumbnails: true
+            limit: 30
+            collapse-after: 30
+            app-auth:
+              name: glance
+              id: ${REDDIT_ID}
+              secret: ${REDDIT_SECRET}
+          widgets:
+            - type: rss
+              title: News
+              limit: 100
+              collapse-after: 30
+              style: detailed-list
+              feeds:
+                - title: Tony Bai
+                  url: https://tonybai.com/feed/
+            - type: videos
+              limit: 100
+              style: vertical-list
+              collapse-after: 30
+              channels:
+                - UCbCCUH8S3yhlm7__rhxR2QQ # 不良林
+                - UCilwQlk62k1z7aUEZPOB6yw # 小Lin
+                - UCZNxe_9FQAK2Z3suwaZlwpQ # 冲浪普拉斯
+                - UCJ1zX4FZA15dwE2olLAO3-w # IC实验室
+                - UCYPT3wl0MgbOz63ho166KOw # 小岛
+                - UCf4YPrRO2clAH-zJcomJaGw # 先看评测
+                - UCBKDRq35-L8xev4O7ZqBeLg # 王志安
+                - UCtRJS7qkLIkW7Xdljeaqk8Q # 汤山老王
+                - UCMUnInmOkrWN4gof9KlhNmQ # 老高
+                - UCyaQwmb8Rf1fTYxziB7bGbg # 老陌
+                - UCnPpZLJJYIsyJeCuaIjKVYA # 好尸
+            - subreddit: golang
+              <<: *shared-properties
+            - subreddit: funny
+              <<: *shared-properties
+            - subreddit: debian
+              <<: *shared-properties

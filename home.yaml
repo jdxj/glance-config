@@ -1,0 +1,54 @@
+- name: Home
+  columns:
+    - size: small
+      widgets:
+        - type: clock
+          hour-format: 24h
+          timezones:
+            - timezone: Asia/Shanghai
+              label: 上海
+            - timezone: America/Los_Angeles
+              label: 洛杉矶
+        - type: calendar
+          first-day-of-week: sunday
+        - type: server-stats
+          servers:
+            - type: local
+              name: gail
+    - size: full
+      widgets:
+        - type: search
+          search-engine: google
+          new-tab: true
+          autofocus: true
+        - $include: bookmarks.yaml
+    - size: small
+      widgets:
+        - type: weather
+          location: Hangzhou, China
+          units: metric # alternatively "imperial"
+          hour-format: 24h # alternatively "12h"
+          # Optionally hide the location from being displayed in the widget
+          # hide-location: true
+        - type: to-do
+        - type: releases
+          cache: 1d
+          # Without authentication the Github API allows for up to 60 requests per hour. You can create a
+          # read-only token from your Github account settings and use it here to increase the limit.
+          # token: ...
+          repositories:
+            - glanceapp/glance
+            - syncthing/syncthing
+            - SagerNet/sing-box
+            - apernet/hysteria
+            # - gohugoio/hugo
+            - v2fly/domain-list-community
+            - gogf/gf
+            - bin456789/reinstall
+            - RMerl/asuswrt-merlin.ng
+            - pixelspark/sushitrain
+            - 2dust/v2rayn
+            # - gtsteffaniak/filebrowser
+            - lin-snow/Ech0
+            - foxcpp/maddy
+            - halo-dev/halo

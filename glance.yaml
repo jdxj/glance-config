@@ -1,0 +1,13 @@
+pages:
+  - $include: home.yaml
+  - $include: rss.yaml
+  - $include: cheat_sheet.yaml
+auth:
+  secret-key: ${SECRET_KEY}
+  users:
+    jdxj:
+      password-hash: ${PASSWORD_HASH}
+server:
+  host: 0.0.0.0
+  port: 8080
+  proxied: true

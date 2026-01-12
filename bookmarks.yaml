@@ -1,0 +1,221 @@
+- type: bookmarks
+  groups:
+    # a
+    - title: AI
+      links:
+        - title: Gemini
+          url: https://gemini.google.com/app
+          icon: https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg
+        - title: ChatGTP
+          url: https://chatgpt.com/
+          icon: https://cdn.oaistatic.com/assets/favicon-l4nq08hd.svg
+    # b
+    # c
+    - title: Chives
+      links:
+        - title: Chives
+          url: https://blog.chives.life/
+          icon: https://blog.chives.life/favicon.ico
+        - title: Rss
+          url: https://rss.chives.life/
+          icon: https://rss.chives.life/icon/icon-32.png
+        - title: Memos
+          url: https://memos.chiveslife.org/
+          icon: https://memos.chiveslife.org/full-logo.webp
+        - title: Ech0
+          url: https://ech0.chiveslife.org/
+          icon: https://ech0.chiveslife.org/favicon.ico
+    - title: Community
+      links:
+        - title: V2ex
+          url: https://www.v2ex.com/
+          icon: https://www.v2ex.com/static/favicon.ico
+        - title: M-Team
+          url: https://kp.m-team.cc/index
+          icon: https://static.m-team.cc/favicon.ico
+        - title: Next I Tell You
+          url: https://next.itellyou.cn/Original/Index
+          icon: https://next.itellyou.cn/favicon.ico
+        - title: LINUN DO
+          url: https://linux.do/
+          icon: https://linux.do/user_avatar/linux.do/shield/72/496130_2.png
+        - title: 1024 Day
+          url: https://1024.day/
+          icon: https://1024.day/assets/favicon-h7d3hvnz.png
+        - title: 雪球
+          url: https://xueqiu.com/
+          icon: https://xqimg.imedao.com/199e675f7a02d1c63fcc57dd.png
+        - title: NodeSeek
+          url: https://www.nodeseek.com/
+          icon: https://www.nodeseek.com/static/image/favicon/favicon-32x32.png
+    # d
+    - title: Docs
+      links:
+        - title: Sing-Box
+          url: https://sing-box.sagernet.org/zh/
+          icon: https://sing-box.sagernet.org/assets/icon.svg
+        - title: Project X
+          url: https://xtls.github.io/
+          icon: https://xtls.github.io/logo.png
+        - title: 空洞骑士地图
+          url: https://silksongmap.co/
+          icon: https://silksongmap.co/favicon.ico
+        - title: Kubernetes API
+          url: https://kubernetes.io/docs/reference/kubernetes-api/
+          icon: https://kubernetes.io/icons/favicon-32.png
+        - title: Bash 脚本教程
+          url: https://wangdoc.com/bash/
+          icon: https://wangdoc.com/bash/assets/icons/favicon-32x32.png
+        - title: glance
+          url: https://github.com/glanceapp/glance/blob/main/docs/configuration.md#configuring-glance
+        - title: Quick Reference
+          url: https://quickref.me/zh-CN/index.html
+
+    # e
+    # f
+    # g
+    - title: Games
+      links:
+        - title: Simcompanies
+          url: https://www.simcompanies.com/zh-cn/landscape/
+          icon: https://www.simcompanies.com/static/images/favico/favicon.e6cec2f1f142.ico
+        - title: Steam
+          url: https://store.steampowered.com/
+          icon: https://store.steampowered.com/favicon.ico
+    # h
+    # i
+    - title: Index
+      links:
+        - title: 东方财富 经济数据
+          url: https://data.eastmoney.com/cjsj/cpi.html
+        - title: "Gold Demand Trends: Full Year 2024"
+          url: https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-full-year-2024
+    # j
+    # k
+    # l
+    # m
+    # n
+    # o
+    # p
+    # q
+    # r
+    - title: Read
+      links:
+        - title: 虎嗅
+          url: https://www.huxiu.com/
+          icon: https://www.huxiu.com/favicon.ico
+        - title: 微信读书
+          url: https://weread.qq.com/
+          icon: https://rescdn.qqmail.com/node/wr/wrpage/style/images/independent/favicon/favicon_32h.png
+        - title: 36Kr
+          url: https://www.36kr.com/
+          icon: https://www.36kr.com/favicon.ico
+        - title: 纽约时报
+          url: https://cn.nytimes.com/
+          icon: https://static01.nyt.com/favicon.ico
+        - title: Github Trending
+          url: https://github.com/trending
+          icon: https://github.githubassets.com/favicons/favicon.svg
+        - title: Hack News
+          url: https://news.ycombinator.com/
+          icon: https://news.ycombinator.com/y18.svg
+        - title: X
+          url: https://x.com/home
+          icon: https://abs.twimg.com/favicons/twitter.3.ico
+        - title: BBC中文
+          url: https://www.bbc.com/zhongwen/simp
+          icon: https://static.files.bbci.co.uk/ws/simorgh-assets/public/zhongwen/images/icons/icon-144x144.png?v=1
+        - title: net4people
+          url: https://github.com/net4people/bbs/issues
+          icon: https://github.githubassets.com/favicons/favicon.svg
+    - title: Router
+      links:
+        - title: 梅林固件wiki
+          url: https://github.com/RMerl/asuswrt-merlin.ng/wiki
+        - title: 梅林固件Changelog
+          url: https://www.asuswrt-merlin.net/changelog
+        - title: 梅林软件列表
+          url: https://bin.entware.net/aarch64-k3.10/Packages.html
+        - title: qbittorrent
+          url: http://192.168.50.172:8080/
+        - title: syncthing
+          url: http://192.168.50.172:8384/
+    # s
+    # t
+    - title: Tools
+      links:
+        - title: Google Translate
+          url: https://translate.google.com/?hl=zh-CN&sl=zh-CN&tl=en&op=translate
+          icon: https://www.gstatic.com/translate/favicon.ico
+        - title: Gmail
+          url: https://mail.google.com/mail/u/0/#inbox
+          icon: https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico
+        - title: Diff
+          url: https://www.jq22.com/textDifference
+          icon: https://www.jq22.com/favicon.ico
+        - title: SM.SM
+          url: https://sm.ms/
+          icon: https://sm.ms/favicon-32x32.png
+        - title: JWT
+          url: https://www.jwt.io/
+          icon: https://www.jwt.io/img/icon.svg
+        - title: JSON-to-Go
+          url: https://mholt.github.io/json-to-go/
+          icon: https://mholt.github.io/json-to-go/resources/images/json-to-go.png
+        - title: 美区AppleID
+          url: https://ccbaohe.com/appleID/
+          icon: https://ccbaohe.com/favicon.ico
+        - title: DeepWiki
+          url: https://deepwiki.com/
+          icon: https://deepwiki.com/icon.png?66aaf51e0e68c818
+        - title: ip138
+          url: https://www.ip138.com/
+          icon: https://www.ip138.com/favicon.ico
+        - title: TIME.IS
+          url: https://time.is/zh/
+          icon: https://time.is/favicon.ico
+        - title: Things
+          url: https://www.thiings.co/things
+          icon: https://www.thiings.co/favicon.png
+    # u
+    # v
+    - title: Videos
+      links:
+        - title: Youtube
+          url: https://www.youtube.com/
+          icon: https://www.youtube.com/s/desktop/45ea6c88/img/logos/favicon.ico
+        - title: Bilibili
+          url: https://www.bilibili.com/
+          icon: https://s2.loli.net/2025/08/24/mwN6nvQgDK3Up8j.png
+    - title: VPS
+      links:
+        - title: BWG
+          url: https://bwh8.net/clientarea.php
+          icon: https://bwh8.net/templates/organicbandwagon/images/login2.png
+        - title: Dogyun
+          url: https://vm.dogyun.com/server/list
+          icon: https://assets.dogyun.com/home/img/logo-128px.png
+        - title: Zgo
+          url: https://clients.zgovps.com/index.php?/clientarea/
+          icon: https://clients.zgovps.com/templates/2019/dist/images/favicon.ico
+        - title: Godaddy
+          url: https://dcc.godaddy.com/control/portfolio/chives.life/settings?ventureId=face5b2e-77f9-4af6-81ca-94d7578c7dc9&ua_placement=shared_header
+          icon: https://img6.wsimg.com/ux-assets/favicon/favicon-32x32.png
+        - title: Reinstall
+          url: https://github.com/bin456789/reinstall
+          icon: https://avatars.githubusercontent.com/u/7548515?s=48&v=4
+        - title: ByteVirt
+          url: https://bytevirt.com/clientarea.php
+          icon: https://bytevirt.com/favicon.ico
+    # w
+    - title: Weekly
+      links:
+        - title: 阮一峰
+          url: https://www.ruanyifeng.com/blog/weekly/
+          icon: https://www.ruanyifeng.com/favicon.ico
+        - title: 潮流周刊
+          url: https://weekly.tw93.fun/
+          icon: https://gw.alicdn.com/imgextra/i2/O1CN01m9YYjS1QBeW5DOm3I_!!6000000001938-2-tps-400-400.png
+    # x
+    # y
+    # z
