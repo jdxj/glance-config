@@ -177,6 +177,9 @@
         - title: Things
           url: https://www.thiings.co/things
           icon: https://www.thiings.co/favicon.png
+        - title: Generate TLSA Record
+          url: https://www.huque.com/bin/gen_tlsa
+          icon: https://www.huque.com/favicon.ico
     # u
     # v
     - title: Videos
