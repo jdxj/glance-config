@@ -180,6 +180,9 @@
         - title: Generate TLSA Record
           url: https://www.huque.com/bin/gen_tlsa
           icon: https://www.huque.com/favicon.ico
+        - title: IT-TOOLS
+          url: https://it-tools.tech/
+          icon: https://it-tools.tech/favicon.ico
     # u
     # v
     - title: Videos
