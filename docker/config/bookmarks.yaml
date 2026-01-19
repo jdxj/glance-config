@@ -14,11 +14,11 @@
     - title: Chives
       links:
         - title: Chives
-          url: https://blog.chives.life/
-          icon: https://blog.chives.life/favicon.ico
-        - title: Rss
-          url: https://rss.chives.life/
-          icon: https://rss.chives.life/icon/icon-32.png
+          url: https://blog.chiveslife.org/
+          icon: https://blog.chiveslife.org/favicon.ico
+        - title: Miniflux
+          url: https://miniflux.chiveslife.org/
+          icon: https://miniflux.chiveslife.org/icon/icon-32.png
         - title: Memos
           url: https://memos.chiveslife.org/
           icon: https://memos.chiveslife.org/full-logo.webp
