@@ -82,6 +82,8 @@
         - title: Steam
           url: https://store.steampowered.com/
           icon: https://store.steampowered.com/favicon.ico
+        - title: Learn Git
+          url: https://learngitbranching.js.org/?locale=zh_CN
     # h
     # i
     - title: Index
