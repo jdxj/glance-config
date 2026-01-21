@@ -128,6 +128,9 @@
         - title: net4people
           url: https://github.com/net4people/bbs/issues
           icon: https://github.githubassets.com/favicons/favicon.svg
+        - title: 笛卡
+          url: https://dizkaz.com/all
+          icon: https://static.biliqiqi.net/d6B9NhgON86hhjlV_tmbhHKaJFQIPCVZ3iIN5Nwl3k3A3Bwd3d3BwBw_raw500x500.png
     - title: Router
       links:
         - title: 梅林固件wiki
