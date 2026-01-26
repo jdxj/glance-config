@@ -25,6 +25,9 @@
         - title: Ech0
           url: https://ech0.chiveslife.org/
           icon: https://ech0.chiveslife.org/favicon.ico
+        - title: Vault
+          url: https://vault.chiveslife.org/
+          icon: https://vault.chiveslife.org/images/favicon-32x32.png
     - title: Community
       links:
         - title: V2ex
