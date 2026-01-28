@@ -139,6 +139,9 @@
         - title: 996忍者！🥷
           url: https://996.ninja/
           icon: https://996.ninja/img/favicon.png
+        - title: daily.dev
+          url: https://app.daily.dev/
+          icon: https://cdn.daily.dev/favicon-32x32.png
     - title: Router
       links:
         - title: 梅林固件wiki
